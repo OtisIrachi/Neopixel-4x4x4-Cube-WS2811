@@ -3,7 +3,7 @@ Neopixel RGB 4x4x4 Cube using WEMOS D1 ESP8266
 
 This project uses a WEMOS D1 Mini ESP8266 and WS2811 LED's in a progressive format
 matrix.
-Software and STL 3D print case is available.
+Arduino IDE Software and STL 3D printed case file is included.
 
 This project was an attempt to construct and replace the Rainbowduino cube design.
 
